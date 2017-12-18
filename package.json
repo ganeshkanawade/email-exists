@@ -1,0 +1,28 @@
+{
+  "name": "email-exists",
+  "version": "1.0.0",
+  "description": "Check email is exists or not",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.7",
+    "email-existence": "^0.1.5",
+    "excel": "^0.1.7",
+    "express": "^4.16.2",
+    "formidable": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ganeshkanawade/email-exists.git"
+  },
+  "author": "Ganesh Kanawade",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ganeshkanawade/email-exists/issues"
+  },
+  "homepage": "https://github.com/ganeshkanawade/email-exists#readme"
+}
